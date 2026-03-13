@@ -1,0 +1,2 @@
+This is Git Version Control Lab Experiment.
+Learning git init, add, commit, push, branch and merge.
